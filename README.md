@@ -53,10 +53,10 @@ class TinasheMcDonald:
 ## 🛠️ My Tech Arsenal
 
 <div align="center">
-  <img src="https://custom-icon-badges.demolab.com/badge/Python-Sachin-Tendulkar-Level-blue?style=for-the-badge&logo=python&logoColor=white"/>&nbsp;
-  <img src="https://custom-icon-badges.demolab.com/badge/Flask-2015-AB-DeVilliers-red?style=for-the-badge&logo=flask&logoColor=white"/>&nbsp;
-  <img src="https://custom-icon-badges.demolab.com/badge/React-Work-in-progress-green?style=for-the-badge&logo=react&logoColor=white"/>&nbsp;
-  <img src="https://custom-icon-badges.demolab.com/badge/PostgreSQL-Test-Match-Steve-Smith-purple?style=for-the-badge&logo=postgresql&logoColor=white"/>&nbsp;
+  <img src="https://custom-icon-badges.demolab.com/badge/Python-Sachin_Tendulkar_Level-blue?style=for-the-badge&logo=python&logoColor=white"/>&nbsp;
+  <img src="https://custom-icon-badges.demolab.com/badge/Flask-2015_AB_DeVilliers-red?style=for-the-badge&logo=flask&logoColor=white"/>&nbsp;
+  <img src="https://custom-icon-badges.demolab.com/badge/React-Work_in_progress-green?style=for-the-badge&logo=react&logoColor=white"/>&nbsp;
+  <img src="https://custom-icon-badges.demolab.com/badge/PostgreSQL-Test_Match_Prime_Steve_Smith-purple?style=for-the-badge&logo=postgresql&logoColor=white"/>&nbsp;
 </div>
 
 ## 📝 Latest Technical Articles
