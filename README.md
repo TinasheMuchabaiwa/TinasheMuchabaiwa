@@ -18,7 +18,7 @@
 
 ## About Me
 
-I'm a seasoned backend engineer and API architect specializing in building scalable, production-ready systems. With expertise in Python, Flask, and PostgreSQL, I craft robust backend solutions that power modern applications. My approach combines technical excellence with a focus on business outcomes, ensuring that every line of code contributes to organizational goals.
+I'm a seasoned backend engineer and specializing in building scalable, production-ready systems. With expertise in Python (including Flask, Django and FastAPI), Neo4J and PostgreSQL, I work on solutions that power modern applications. My approach combines technical specialty with a focus on business outcomes, ensuring that every line of code contributes to business goals.
 
 Currently leading development on GITA, a pioneering peer-to-peer ridesharing and community connectivity platform designed to transform urban mobility in emerging markets.
 
@@ -28,7 +28,7 @@ Currently leading development on GITA, a pioneering peer-to-peer ridesharing and
   
 ### Languages & Frameworks
   
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 
 ### Database Technologies
 
@@ -59,14 +59,6 @@ A comprehensive mobile application that revolutionizes community mobility and re
   - Advanced route optimization algorithms
   - Multi-layered security with robust authentication
 
-### Enterprise Graph Database Integration System
-Designed and implemented a scalable graph database solution for enterprise data integration, dramatically improving query performance and data relationship mapping.
-
-- **Tech Stack**: Neo4j, Python, Flask, GraphQL
-- **Achievements**:
-  - Reduced complex query times by 87%
-  - Implemented automated data mapping across disparate systems
-  - Built custom visualization tools for relationship analytics
 
 ## 📝 Latest Technical Articles
 
@@ -76,7 +68,7 @@ Designed and implemented a scalable graph database solution for enterprise data 
 
 ## 🏏 Beyond Code
 
-When I'm not architecting software solutions, you might find me analyzing cricket matches or playing on weekends. I believe that the strategic thinking and attention to detail required in cricket directly translates to writing elegant, efficient code.
+When I'm not buiding software, you might find me analyzing cricket matches or playing on weekends. I believe that the strategic thinking and attention to detail required in cricket directly translates to writing elegant, efficient code.
 
 ## 💡 Professional Approach
 
@@ -85,7 +77,7 @@ class EngineeringPhilosophy:
     def __init__(self):
         self.principles = [
             "Design for maintainability and scalability from day one",
-            "Prioritize robust testing and observability",
+            "Prioritize testing and observability",
             "Choose the right tool for the job, not the trendiest",
             "Optimize for developer experience and productivity",
             "Security is not a feature, it's a foundation"
