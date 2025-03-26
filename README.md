@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=4000&pause=1000&color=0366D6&center=true&vCenter=true&width=800&lines=Fullstack+Engineer+%7C+API+Architect+%7C+Mobile+Developer;Python+%7C+Flask+%7C+React+Native+%7C+PostgreSQL;Building+Enterprise-Grade+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=4000&pause=1000&color=0366D6&center=true&vCenter=true&width=800&lines=Backend+Engineer+%7C+Fullstack+Engineer+%7C+Mobile+Developer;Python+%7C+Flask+%7C+React+Native+%7C+PostgreSQL;Building+Enterprise-Grade+Solutions" alt="Typing SVG" />
 </div>
 
 # Tinashe McDonald Muchabaiwa
