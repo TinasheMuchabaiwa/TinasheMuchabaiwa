@@ -1,101 +1,105 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&width=800&lines=Backend+Engineer+%7C+API+Architect+%7C;Cricket+Fanatic+in+Code;A+Vision+in+Python+%7C+Flask+%7C+PostgreSQL;Crafting+Solutions+with+Precision+and+Purpose" alt="Typing SVG" />
-</p>
-
 <div align="center">
-  
-  # 🏏 Hey there! I'm Tinashe McDonald Muchabaiwa
-  
-  > *Just like in cricket, my code thrives on precision, timing, and strategy. And if there's one thing I've learned, it's to build for the long game like a Test match.*
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=4000&pause=1000&color=0366D6&center=true&vCenter=true&width=800&lines=Fullstack+Engineer+%7C+API+Architect+%7C+Mobile+Developer;Python+%7C+Flask+%7C+React+Native+%7C+PostgreSQL;Building+Enterprise-Grade+Solutions" alt="Typing SVG" />
 </div>
 
-I'm a backend developer who loves to develop APIs, design databases, and build scalable solutions. I'm a Python enthusiast, who enjoys working with Flask and Django. I also have an interest in microservices, cloud technologies, and DevOps practices. When I'm not coding, you'll find me analyzing cricket matches, playing the game on weekends socially, or writing about tech and cricket.
-
-## 🎯 My Tech Innings
-
-<div align="center">
-
-```python
-class TinasheMcDonald:
-    def __init__(self):
-        self.name = "Tinashe McDonald Muchabaiwa"
-        self.role = "Backend Developer"
-        self.tech_stack = {
-            "Languages": ["Python", "JavaScript"],
-            "Backend Frameworks": ["Flask", "Django", "Node.js"],
-            "Frontend": ["React", "Tailwind CSS"],
-            "Mobile": ["React Native"],
-            "Query Languages": ["SQL", "Cypher", "Gremlin"],
-            "Database": ["PostgreSQL", "Neo4j", "MySQL"],
-            "DevOps": ["Docker", "Kubernetes"],
-        }
-        
-    def daily_routine(self):
-        return [
-            "Write clean, efficient code",
-            "Debug complex issues with pinpoint precision",
-            "Optimize performance like setting field placements in cricket",
-            "Deploy solutions with match-winning strategies",
-        ]
-    
-    def current_project(self):
-        return "GITA (Coming Soon)"
-```
-
-</div>
-
-## 📊 Performance Stats
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TinasheMuchabaiwa&theme=nightowl" alt="GitHub Streak Stats" />
-</div>
-
-## 🛠️ My Tech Arsenal
-
-<div align="center">
-  <img src="https://custom-icon-badges.demolab.com/badge/Python-Sachin_Tendulkar_Level-blue?style=for-the-badge&logo=python&logoColor=white"/>&nbsp;
-  <img src="https://custom-icon-badges.demolab.com/badge/Flask-2015_AB_DeVilliers-red?style=for-the-badge&logo=flask&logoColor=white"/>&nbsp;
-  <img src="https://custom-icon-badges.demolab.com/badge/React-Work_in_progress-green?style=for-the-badge&logo=react&logoColor=white"/>&nbsp;
-  <img src="https://custom-icon-badges.demolab.com/badge/PostgreSQL-Test_Match_Prime_Steve_Smith-purple?style=for-the-badge&logo=postgresql&logoColor=white"/>&nbsp;
-</div>
-
-## 📝 Latest Technical Articles
-
-<!-- BLOG-POST-LIST:START -->
-- [The importance of graph databases in modern data integration](https://medium.com/@themuchy/the-importance-of-graph-databases-in-modern-data-integration-1598af3c9e7c?source=user_profile_page---------0-------------fc516fd5c731---------------)
-- [Centralizing Project Management: The impact of cross-application linking](https://medium.com/@themuchy/centralizing-project-management-the-impact-of-cross-application-linking-c52b18f78b3c?source=user_profile_page---------1-------------fc516fd5c731---------------)
-- [How to implement an http circuit breaker in Python](https://medium.com/@themuchy/how-to-implement-an-http-circuit-breaker-with-python-2a346bfd68b0?source=user_profile_page---------2-------------fc516fd5c731---------------)
-<!-- BLOG-POST-LIST:END -->
-
-## 🏏 Life Beyond Code
-
-```python
-def life_beyond_code():
-    return {
-        "cricket": ["Analyzing match strategies", "Playing on weekends", "Stats analysis"],
-        "tech": ["Open source contributions", "Technical writing", "Community mentoring"],
-        "growth": ["Learning new technologies", "Reading tech blogs", "Watching cricket"]
-    }
-```
-
-## 🤝 Let's Connect!
+# Tinashe McDonald Muchabaiwa
 
 <div align="center">
   <a href="https://linkedin.com/in/tinashe-muchabaiwa">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>&nbsp;
+  </a>
   <a href="https://medium.com/@themuchy">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
-  </a>&nbsp;
+  </a>
   <a href="http://tinashe.my">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-0366D6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
 </div>
 
----
+## About Me
+
+I'm a seasoned backend engineer and API architect specializing in building scalable, production-ready systems. With expertise in Python, Flask, and PostgreSQL, I craft robust backend solutions that power modern applications. My approach combines technical excellence with a focus on business outcomes, ensuring that every line of code contributes to organizational goals.
+
+Currently leading development on GITA, a pioneering peer-to-peer ridesharing and community connectivity platform designed to transform urban mobility in emerging markets.
+
+## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=TinasheMuchabaiwa&label=Profile+Views&color=6C63FF" alt="Profile Views" />
+  
+### Languages & Frameworks
+  
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+
+### Database Technologies
+
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/SQLAlchemy-FF0000?style=for-the-badge"/> <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
+
+### DevOps & Tools
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+
 </div>
 
-<!-- README.md:END -->
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TinasheMuchabaiwa&theme=tokyonight" alt="GitHub Streak Stats" />
+</div>
+
+## 🚀 Featured Projects
+
+### GITA - Peer-to-Peer Ridesharing & Community Platform
+A comprehensive mobile application that revolutionizes community mobility and resource sharing in emerging markets.
+
+- **Tech Stack**: Flask, React Native, PostgreSQL, Redis, AWS
+- **Key Features**: 
+  - Peer-to-peer ridesharing with real-time tracking
+  - Community-based package delivery network
+  - Comprehensive vehicle management system
+  - Advanced route optimization algorithms
+  - Multi-layered security with robust authentication
+
+### Enterprise Graph Database Integration System
+Designed and implemented a scalable graph database solution for enterprise data integration, dramatically improving query performance and data relationship mapping.
+
+- **Tech Stack**: Neo4j, Python, Flask, GraphQL
+- **Achievements**:
+  - Reduced complex query times by 87%
+  - Implemented automated data mapping across disparate systems
+  - Built custom visualization tools for relationship analytics
+
+## 📝 Latest Technical Articles
+
+- [The Importance of Graph Databases in Modern Data Integration](https://medium.com/@themuchy/the-importance-of-graph-databases-in-modern-data-integration-1598af3c9e7c)
+- [Centralizing Project Management: The Impact of Cross-Application Linking](https://medium.com/@themuchy/centralizing-project-management-the-impact-of-cross-application-linking-c52b18f78b3c)
+- [How to Implement an HTTP Circuit Breaker in Python](https://medium.com/@themuchy/how-to-implement-an-http-circuit-breaker-with-python-2a346bfd68b0)
+
+## 🏏 Beyond Code
+
+When I'm not architecting software solutions, you might find me analyzing cricket matches or playing on weekends. I believe that the strategic thinking and attention to detail required in cricket directly translates to writing elegant, efficient code.
+
+## 💡 Professional Approach
+
+```python
+class EngineeringPhilosophy:
+    def __init__(self):
+        self.principles = [
+            "Design for maintainability and scalability from day one",
+            "Prioritize robust testing and observability",
+            "Choose the right tool for the job, not the trendiest",
+            "Optimize for developer experience and productivity",
+            "Security is not a feature, it's a foundation"
+        ]
+        
+    def apply_to_projects(self, project):
+        # Implementation always follows principles
+        return solution_with_industry_best_practices(project, self.principles)
+```
+
+## 📫 Let's Connect
+
+I'm always open to discussing new projects, technical challenges, or opportunities for collaboration. Feel free to reach out through any of the channels above.
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=TinasheMuchabaiwa&label=Profile+Views&color=0366D6" alt="Profile Views" />
+</div>
