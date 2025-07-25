@@ -16,82 +16,42 @@
   </a>
 </div>
 
-## About Me
+# Hi, I'm Tinashe 👋
 
-I'm a seasoned backend engineer and specializing in building scalable, production-ready systems. With expertise in Python (including Flask, Django and FastAPI), Neo4J and PostgreSQL, I work on solutions that power modern applications. My approach combines technical specialty with a focus on business outcomes, ensuring that every line of code contributes to business goals.
+  **Senior Backend Engineer** building systems that work in challenging environments.
 
-Currently leading development on GITA, a pioneering peer-to-peer ridesharing and community connectivity platform designed to transform urban mobility in emerging markets.
+  ## About Me
+  7 years deep in backend engineering, from junior dev in Harare to senior roles across Toronto, Oslo, and
+  Seattle. I've learned that great engineering is about preventing problems, making smart trade-offs, and
+  building systems that actually work for real people.
 
-## 🛠️ Tech Stack
+  Currently applying everything I've learned to build scalable systems in challenging environments.
 
-<div align="center">
-  
-### Languages & Frameworks
-  
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  ## What I Build
+  🚛 **Multi-tenant SaaS platforms** - Transport booking systems serving multiple companies
+  🗺️ **Geospatial applications** - Real estate management with interactive mapping
+  🤖 **AI-powered platforms** - Adaptive learning systems for educational institutions
+  📡 **Real-time systems** - WebSocket architectures for live tracking and notifications
 
-### Database Technologies
+  ## Tech Stack
+  **Backend:** Python, Flask, PostgreSQL, Redis, Docker
+  **Frontend:** JavaScript, React, Next.js
+  **Infrastructure:** AWS, Docker Compose, Nginx
+  **Specialties:** Multi-tenant architecture, PostGIS, Real-time systems, API design
 
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/SQLAlchemy-FF0000?style=for-the-badge"/> <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
+  ## Current Focus
+  Building production systems that handle real-world complexity:
+  - Circuit breaker patterns for SMS provider failover
+  - Multi-tenant database architecture with row-level security
+  - Offline authentication for drivers in poor connectivity areas
+  - Geospatial search with PostGIS optimization
 
-### DevOps & Tools
+  ---
+  *"Senior engineering is about preventing problems, not just solving them."*
 
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  📫 **Get in touch:** [Portfolio Website](https://tinashe.my) | [Email](mailto:muchabaiwatinashe@gmail.com)
 
-</div>
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TinasheMuchabaiwa&theme=tokyonight" alt="GitHub Streak Stats" />
-</div>
-
-## 🚀 Featured Projects
-
-### GITA - Peer-to-Peer Ridesharing & Community Platform
-A comprehensive mobile application that revolutionizes community mobility and resource sharing in emerging markets.
-
-- **Tech Stack**: Flask, React Native, PostgreSQL, Redis, AWS
-- **Key Features**: 
-  - Peer-to-peer ridesharing with real-time tracking
-  - Community-based package delivery network
-  - Comprehensive vehicle management system
-  - Advanced route optimization algorithms
-  - Multi-layered security with robust authentication
-
-
-## 📝 Latest Technical Articles
-
-- [The Importance of Graph Databases in Modern Data Integration](https://medium.com/@themuchy/the-importance-of-graph-databases-in-modern-data-integration-1598af3c9e7c)
-- [Centralizing Project Management: The Impact of Cross-Application Linking](https://medium.com/@themuchy/centralizing-project-management-the-impact-of-cross-application-linking-c52b18f78b3c)
-- [How to Implement an HTTP Circuit Breaker in Python](https://medium.com/@themuchy/how-to-implement-an-http-circuit-breaker-with-python-2a346bfd68b0)
-
-## 🏏 Beyond Code
-
-When I'm not buiding software, you might find me analyzing cricket matches or playing on weekends. I believe that the strategic thinking and attention to detail required in cricket directly translates to writing elegant, efficient code.
-
-## 💡 Professional Approach
-
-```python
-class EngineeringPhilosophy:
-    def __init__(self):
-        self.principles = [
-            "Design for maintainability and scalability from day one",
-            "Prioritize testing and observability",
-            "Choose the right tool for the job, not the trendiest",
-            "Optimize for developer experience and productivity",
-            "Security is not a feature, it's a foundation"
-        ]
-        
-    def apply_to_projects(self, project):
-        # Implementation always follows principles
-        return solution_with_industry_best_practices(project, self.principles)
-```
 
 ## 📫 Let's Connect
 
 I'm always open to discussing new projects, technical challenges, or opportunities for collaboration. Feel free to reach out through any of the channels above.
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=TinasheMuchabaiwa&label=Profile+Views&color=0366D6" alt="Profile Views" />
-</div>
